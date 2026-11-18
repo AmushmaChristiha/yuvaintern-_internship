@@ -29,4 +29,4 @@ To design the high-level system architecture of CampusConnect and understand how
 - Module Descriptions
 
 ## Status
-Week 2 - In Progress
+Week 2 - completed
