@@ -3,19 +3,17 @@
 ## Project: CampusConnect – Student Course & Assignment Management System
 
 ### Objective
-To establish coding style guidelines and an inline documentation strategy that improve code readability, consistency, and maintainability throughout the CampusConnect project.
+To establish coding standards and inline documentation practices that improve code readability, consistency, and maintainability.
 
-### Topics Covered
-1. Naming conventions and coding standards.
-2. Code formatting and indentation rules.
-3. File and folder organization.
-4. Inline commenting strategies.
-5. JSDoc, Javadoc, and Python docstrings.
-6. Documentation and formatting tools.
-7. Team collaboration and code review practices.
-8. Code maintenance checklist.
+### Deliverables
 
-### Tools Recommended
+1. `Week_4_Coding_Style_Guidelines_Inline_Documentation_CampusConnect.docx` – Detailed coding guidelines report.
+2. `coding-standards.md` – Naming conventions, formatting, and file organization.
+3. `commenting-documentation.md` – Inline comments, JSDoc, Javadoc, and Python docstrings.
+4. `documentation-tools.md` – Recommended formatting and documentation tools.
+5. `team-collaboration.md` – Code reviews, collaboration, and maintenance practices.
+
+### Tools Covered
 - ESLint
 - Prettier
 - JSDoc
@@ -23,10 +21,14 @@ To establish coding style guidelines and an inline documentation strategy that i
 - EditorConfig
 - Git and GitHub
 
-### Deliverable
-`Week_4_Coding_Style_Guidelines_Inline_Documentation_CampusConnect.docx`
+### Key Areas Covered
+- Naming conventions and formatting rules.
+- Commenting and documentation strategies.
+- Practical code examples and mini case studies.
+- Documentation tools and development workflow.
+- Team collaboration and long-term maintenance.
 
 ### Status
-Completed
+**Completed**
 
-*This document presents proposed coding standards and documentation practices for the planned CampusConnect application.*
+*These guidelines are proposed standards for the future implementation of CampusConnect.*
