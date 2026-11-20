@@ -1,35 +1,25 @@
 # Week 5 – Testing Strategy & Quality Assurance Plan
 
-## Project: CampusConnect – Student Course & Assignment Management System
+## Project
+CampusConnect – Student Course & Assignment Management System
 
-### Objective
-To design a comprehensive testing strategy and quality assurance plan for validating the functionality, reliability, and quality of CampusConnect.
+## Objective
+To prepare a structured testing strategy and quality assurance plan for validating the proposed CampusConnect application.
 
-### Topics Covered
-1. Software Testing Life Cycle (STLC).
-2. Unit Testing.
-3. Integration Testing.
-4. System Testing.
-5. User Acceptance Testing (UAT).
-6. Functional and non-functional testing.
-7. TDD and BDD methodologies.
-8. Test case design and execution.
-9. Bug tracking and defect management.
-10. Quality assurance and continuous improvement.
+## Deliverables
 
-### Tools Recommended
-- Jest / Vitest
-- React Testing Library
-- Supertest
-- Selenium / Playwright
-- JUnit
-- Postman
-- GitHub Issues
+1. `Week_5_Testing_Strategy_Quality_Assurance_Plan_CampusConnect.docx` – Detailed testing strategy and QA report.
+2. `testing-phases.md` – Software testing phases and their purposes.
+3. `test-cases.md` – Functional test cases and expected results.
+4. `testing-methodologies-tools.md` – Testing methodologies and tools.
+5. `quality-assurance.md` – Quality assurance and defect management process.
+6. `test-execution-plan.md` – Proposed test execution process and criteria.
 
-### Main Deliverable
-`Week_5_Testing_Strategy_Quality_Assurance_Plan_CampusConnect.docx`
+## Technologies
+React.js, Node.js, Express.js, MongoDB, Jest, Vitest, React Testing Library, Supertest, Playwright, and Postman.
 
-### Status
-In Progress
+## Status
+**Completed**
 
-*This document presents a proposed testing and quality assurance plan for the future implementation of CampusConnect.*
+## Note
+This submission contains a proposed testing strategy and quality assurance plan. Actual application testing will be performed during the implementation phase.
